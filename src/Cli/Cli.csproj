@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>PokerDotNet.Cli</RootNamespace>
+    <AssemblyName>PokerDotNet.Cli</AssemblyName>
+  </PropertyGroup>
+
+</Project>
